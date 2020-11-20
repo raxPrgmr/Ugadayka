@@ -26,6 +26,7 @@ namespace Ugadayka
         {
             //New test comment
             //1 test
+            //test222
             InitializeComponent();
             classGame = new ClassGame(5);
             StartGame();
