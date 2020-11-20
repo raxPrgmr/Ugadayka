@@ -24,6 +24,7 @@ namespace Ugadayka
 
         public MainWindow()
         {
+            //New test comment
             InitializeComponent();
             classGame = new ClassGame(5);
             StartGame();
